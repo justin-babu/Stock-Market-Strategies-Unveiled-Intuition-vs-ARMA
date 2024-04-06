@@ -1,4 +1,5 @@
 # Stock-Market-Strategies-Unveiled-Intuition-vs-ARMA
+(Note: the first file uses ticker symbol 'AAPL'. Replace with 'RELIANCE.NS' and 'TATAMOTORS.NS' as required to get results
 ## Aim:
 Evaluate the effectiveness of a basic intuition-based trading strategy against an ARMA model in the stock market.
 Assess the performance of the strategies for TATA MOTORS and RELIANCE stocks.
@@ -8,3 +9,4 @@ Utilized an ARMA model for stock price predictions and compared its performance 
 ## Results:
 Backtesting revealed that the ARMA model consistently outperformed the intuition-based trading strategy in terms of returns.
 Statistical metrics and visualizations demonstrated the superiority of data-driven approaches, emphasizing the limitations of intuition in stock market decision-making.
+(Note: the first file uses ticker symbol 'AAPL'. Replace with 'RELIANCE.NS' and 'TATAMOTORS.NS' as required to get results)
